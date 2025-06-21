@@ -32,5 +32,6 @@ public class BMIStatusCalculator {
             System.out.printf("Person %d: Weight = %.2f kg, Height = %.2f cm, BMI = %.2f, Status = %s%n",
                               i+1, data[i][0], data[i][1], data[i][2], statuses[i]);
         }
+        sc.close();
     }
 }
