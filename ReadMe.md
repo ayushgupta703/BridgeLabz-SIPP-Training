@@ -43,6 +43,10 @@ This repository contains code and practice problems solved day-wise during the t
 - Palindrome check, reverse string
 - Remove duplicates, toggle case, substring operations
 
+### ✅ Day 9 – Class and Object (OOP Basics)
+- Defined classes with attributes and methods.
+- Implemented object creation, constructors, and basic encapsulation.
+
 ---
 
 Each day's folder contains Java programs related to that day's topic.
